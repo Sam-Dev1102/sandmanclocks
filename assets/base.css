@@ -2955,3 +2955,10 @@ details-disclosure > details {
     outline: transparent solid 1px;
   }
 }
+
+/**************************** Custom CSS ****************************/
+.index #MainContent,
+.product #MainContent,
+.cart #MainContent{
+  display: none;
+}
