@@ -2965,6 +2965,7 @@ footer {
   display: none;
 }
 
-.product.Doppler #MainContent {
+.product.Doppler #MainContent,
+.product.Doppler footer {
   display: block;
 }
