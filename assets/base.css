@@ -2959,6 +2959,8 @@ details-disclosure > details {
 /**************************** Custom CSS ****************************/
 .index #MainContent,
 .product #MainContent,
-.cart #MainContent{
+.collection #MainContent,
+.cart #MainContent,
+footer {
   display: none;
 }
