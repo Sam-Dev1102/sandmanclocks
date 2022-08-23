@@ -10,7 +10,6 @@ jobs:
         uses: shopify/lighthouse-ci-action@v1
         with:
           store: ${{ secrets.SHOP_STORE }}
-          password: ${{ secrets.SHOP_PASSWORD }}
           access_token: ${{ secrets.SHOP_ACCESS_TOKEN }}
           product_handle: doppler
           collection_handle: all
