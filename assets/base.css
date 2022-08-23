@@ -2964,3 +2964,7 @@ details-disclosure > details {
 footer {
   display: none;
 }
+
+.product.Doppler #MainContent {
+  display: block;
+}
